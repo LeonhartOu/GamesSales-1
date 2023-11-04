@@ -1,5 +1,5 @@
 # Project Title: Analysis of Video Game Sales and Ratings
-
+---
 # Dataset 
 (https://www.kaggle.com/datasets/kendallgillies/video-game-sales-and-ratings)
 > I used the "Video Game Sales with Ratings" dataset available on Kaggle. This dataset contains a comprehensive list of video games with sales greater than 100,000 copies.
